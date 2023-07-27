@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InstagramCardDesign</string>
+
+    <string name="post">Post</string>
+    <string name="post_count">27</string>
+    <string name="followers">Followers</string>
+    <string name="followers_count">1,952</string>
+    <string name="following">Following</string>
+    <string name="following_count">278</string>
+    <string name="quote">Better UX Better World</string>
+    <string name="designer">Designer</string>
+
+    <string name="bio1">👋 Bite-Sized learnings from my experience as a #ux #designer for the next generation Product Peeps.</string>
+    <string name="bio2">🎙 BUBW Podcast-spotify mohamedRamadanAbdallahMohamed</string>
+    <string name="link">taplink.cc/ux.bubw</string>
+</resources>
